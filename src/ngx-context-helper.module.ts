@@ -6,6 +6,7 @@ import { NgxContextHelperComponent } from './ngx-context-helper.component';
   imports: [
     CommonModule
   ],
-  declarations: [NgxContextHelperComponent]
+  declarations: [NgxContextHelperComponent],
+  exports: [NgxContextHelperComponent],
 })
 export class NgxContextHelperModule { }
