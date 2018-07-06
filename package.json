@@ -1,0 +1,22 @@
+{
+  "name": "ngx-context-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JINSCOP/ngx-context-helper.git"
+  },
+  "keywords": [
+    "ngx-context-helper"
+  ],
+  "author": "金飞",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JINSCOP/ngx-context-helper/issues"
+  },
+  "homepage": "https://github.com/JINSCOP/ngx-context-helper#readme"
+}
